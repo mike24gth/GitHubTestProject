@@ -9,5 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World! This is Mike" );
+        System.out.println( "Made a code change just for Git Testing!!" );
+
     }
 }
